@@ -1,0 +1,26 @@
+# Pliki tymczasowe Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+
+# Foldery budowania i binarki
+x64/
+Debug/
+Release/
+bin/
+build/
+*.exe
+*.dll
+*.lib
+*.exp
+*.pdb
+*.obj
+*.ilk
+
+# Pliki generowane przez Qt (MOC/UIC/RCC)
+**/qt_vars*
+**/moc_*.cpp
+**/ui_*.h
+**/qrc_*.cpp
